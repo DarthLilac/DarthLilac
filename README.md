@@ -16,3 +16,5 @@ You can click the Preview link to take a look at your changes.
 <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarthLilac&layout=compact)
+
+<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?DarthLilac" frameborder="0"></iframe>
