@@ -3,7 +3,8 @@
 Aqui você vai encontrar meus projetos pessoais e projetos feitos para estudo
 
 - 📊 Aluna da turma 6 do Bootcamp Data Analytics da WomakersCode
-- 🔋 Aluna da turma 6 do programa Oracle Next Education (Front-end)
+- 🔋 Formada na turma 6 do programa Oracle Next Education (Front-end)
+- 👩🏻‍💻 Formada como Desenvolvedora Web Fullstack na turma 73 Generation
 
 <br>
  <div>
