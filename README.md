@@ -1,11 +1,11 @@
-### Olá, eu sou a Andressa! 👩🏻
+### Olá, eu sou a Andressa! 👩🏻 👩🏻‍💻
 
 Aqui você vai encontrar meus projetos pessoais e projetos feitos para estudo
 
-- 📊 Aluna da turma 6 do Bootcamp Data Analytics da WomakersCode
-- 🔋 Formada na turma 6 do programa Oracle Next Education (Front-end)
-- 👩🏻‍💻 Formada como Desenvolvedora Web Fullstack na turma 73 Generation
-
+-  Bootcamp Data Analytics da WomakersCode - Turma 6
+-  Oracle Next Education (Front-end) - Turma 6
+-  Desenvolvedora Web Fullstack Generation  Turma 73
+-  Estudante de Ciência da Computação
 <br>
  <div>
   <a href="https://github.com/DarthLilac">
